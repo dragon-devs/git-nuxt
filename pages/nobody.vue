@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Home Page</h2>
+        <h2>AK-DRH</h2>
     </div>
 </template>
 
